@@ -1,4 +1,4 @@
-var SERVER_URL = 'http://torpparintaival.stadi.ninja/logger.php';
+var SERVER_URL = 'https://torpparintaival.stadi.ninja/logger.php';
 var WAIT_TIME = 5000;
 
 function get_refresh() {
