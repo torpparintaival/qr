@@ -1,5 +1,5 @@
 var SERVER_URL = 'https://torpparintaival.stadi.ninja/logger.php';
-var WAIT_TIME = 5000;
+var WAIT_TIME = 50000;
 
 function get_refresh() {
   const metas = document.getElementsByTagName('meta');
