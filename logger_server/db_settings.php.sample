@@ -1,0 +1,8 @@
+<?php
+
+  $DB_HOST = "localhost";
+  $DB_USER = "database_username";
+  $DB_PASS = "database_password";
+  $DB_BASE = "qr_logger";
+
+?>
