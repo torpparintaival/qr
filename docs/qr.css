@@ -14,3 +14,8 @@ body {
 img {
   max-width: 75%;
 }
+
+#mapicon {
+  width: 150px;
+  max-width: 50%;
+}

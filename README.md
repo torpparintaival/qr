@@ -42,3 +42,4 @@ Kaikkien taulujen QR-koodit ovat hakemistossa `qr-svg`.
 ## Acknowledgements
 
  * Web page template: [https://templated.co/ion]
+ * Map icon: [https://iconstore.co/redirect/?icon-pack=free-camping-icons]

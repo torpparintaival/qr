@@ -45,7 +45,13 @@ function goto_target (target_url) {
   window.open(target_url, "_self");
 }
 
+function set_page_content () {
+  document.getElementById("content").innerHTML = "<img src='../logo.png' /><h1>Torpparintaival</h1><p>&copy; Torpparinm&auml;en peruskoulu 2019</p><p>Odota hetki tai avaa kartta:</p><a href='../map/'><img id='mapicon' src='../icon-map.svg'></a>";
+}
+
 function on_load () {
+  set_page_content();
+
   var target_url = get_refresh_url();
 
   var data = {
