@@ -39,6 +39,11 @@ Tauluissa olevat QR-koodit on tehty [maksuttomalla verkkopalvelulla](https://www
 
 Kaikkien taulujen QR-koodit ovat hakemistossa `qr-svg`.
 
+## Taulut
+
+ * Skannatut taulut löytyvät `images/original/`
+ * Taulut, joihin on yhdistetty QR-koodit ja matologo löytyvät `images/final/`
+
 ## Acknowledgements
 
  * Web page template: [https://templated.co/ion]
